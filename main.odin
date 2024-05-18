@@ -1,6 +1,6 @@
 package eventbus
 
-import "../talloc"
+import "./talloc"
 import "core:fmt"
 import "core:os"
 import "core:strconv"
